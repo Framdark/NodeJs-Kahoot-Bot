@@ -1,0 +1,17 @@
+{
+  "name": "kahoot_bot",
+  "version": "1.0.0",
+  "description": "A server that has a front end that is able to bot kahoot games",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natty Felleke",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "kahoot.js-republished": "^1.0.0",
+    "nodejs-randomnames": "^1.0.1",
+    "socket.io": "^2.2.0"
+  }
+}
